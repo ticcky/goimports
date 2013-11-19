@@ -22,6 +22,9 @@ For vim, set "gofmt_command" to "goimports":
     https://code.google.com/p/go/source/browse#hg%2Fmisc%2Fvim
     etc
 
+For Sublime Text 3 get your plugin at:
+    https://github.com/ticcky/sublime_goimports.git
+
 For other editors, you probably know what to do.
 
 Happy hacking!
